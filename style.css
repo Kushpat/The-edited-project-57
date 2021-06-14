@@ -1,0 +1,46 @@
+
+body{
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+
+.images {
+    width: 350px;
+    height: 300px;
+    border: solid;
+    border-color: black;
+}
+
+h2 {
+    text-align: left;
+    font-size: 17.5px;
+    font-family: 'Playfair Display', serif;
+    color: forestgreen;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+
+}
+
+div {
+    margin-top: 15px;
+}
+.medonotknow{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+.donotknownature{
+    text-align: center;
+}
+    
